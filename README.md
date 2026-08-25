@@ -29,14 +29,7 @@
 - 💡 **What I Do:** Solving real-world problems with data, AI models, and modern web tech.
 - 🤖 **Focus Areas:** Generative AI, LLMs, Agentic AI (LangChain, RAG), and MLOps.
 
-```python
-nayan_profile = {
-    "Core Skills":       ["Python", "SQL", "Statistics", "Data Analysis"],
-    "Machine Learning":  ["Scikit-Learn", "Deep Learning", "NLP", "OpenCV"],
-    "Advanced AI":       ["LLMs", "RAG Pipelines", "Vector Databases", "AI Agents"],
-    "Frameworks & Tools":["TensorFlow", "PyTorch", "Docker", "Git", "AWS"],
-    "Databases":         ["MySQL", "PostgreSQL", "MongoDB", "Firebase", "Supabase"]
-}## 💻 Tech Stack Dashboard
+## 💻 Tech Stack Dashboard
 
 <div align="center">
   
@@ -45,6 +38,9 @@ nayan_profile = {
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) <br> ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) <br> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch) <br> ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) <br> ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase) <br> ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) <br> ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws) <br> ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi) <br> ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark) |
 
 </div>
+
+---
+
 ## 📈 GitHub Analytics Dashboard
 
 <div align="center">
@@ -64,6 +60,19 @@ nayan_profile = {
     </td>
   </tr>
 </table>
+
+### 🏆 Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=Nayan1s62&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
+
+### 📊 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayan1s62&theme=tokyo-night" alt="Contribution Graph" width="100%" />
+
+### 🔥 Top Contributed Repository
+<img src="https://github-contributor-stats.vercel.app/api?username=Nayan1s62&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repo" />
+
+</div>
+
+---
 
 ## 📂 Featured Projects & Focus Areas
 
@@ -89,7 +98,17 @@ nayan_profile = {
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
-</p>
+
+---
+
+<div align="center">
+  
+### 💬 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+<br>
+
+> ⭐ *"Learning never stops. Every commit is one step closer to becoming an AI Engineer."*
+
+</div>
 
